@@ -1,3 +1,9 @@
 # ignore temp files
 *.swo
 *.swp
+
+# ignore python pyc files
+*.pyc
+
+# ignore venv
+venv/
